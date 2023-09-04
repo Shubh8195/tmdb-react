@@ -1,0 +1,13 @@
+.genres{
+   display: flex;
+   gap: 5px;
+   .genre{
+    font-size: 12px;
+    background-color: var(--pink);
+    color:white;
+    border-radius: 5px;
+    padding: 3px 5px;
+    white-space: nowrap;
+
+   }
+}
